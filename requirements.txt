@@ -1,0 +1,5 @@
+Django
+djangorestframework
+coverage
+djangorestframework-simplejwt
+django-cors-headers
